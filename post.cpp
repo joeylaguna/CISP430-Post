@@ -4,6 +4,7 @@ using namespace std;
 int clean()
 {
     char comments;
+    while (in.peek()=='\n' || in.peek()=='\n')
 }
 
 int main()
